@@ -1,3 +1,4 @@
 .txt
 .log
-.tf*
+.tfstate*
+.idea/*
