@@ -2,4 +2,4 @@
 .log
 .tfstate*
 .idea/*
-.teraform/*
+.terraform/*
